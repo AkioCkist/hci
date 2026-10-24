@@ -1,0 +1,1958 @@
+{
+  "docx": {
+    "paragraph_count": 226,
+    "table_count": 8,
+    "inline_shape_count": 55,
+    "images_in_body": [
+      {
+        "image_index": 1,
+        "rid": "rId7",
+        "target": "media/image1.jpg",
+        "previous_text": "A multifunction note-taking app — capture anything, find it in seconds, never lose it"
+      },
+      {
+        "image_index": 2,
+        "rid": "rId8",
+        "target": "media/image2.jpg",
+        "previous_text": "Two personas were built from the user research. Thư is the primary persona (most design decisions are optimised for her); Đức Anh is the power-user persona who validates advanced features."
+      },
+      {
+        "image_index": 3,
+        "rid": "rId9",
+        "target": "media/image3.jpg",
+        "previous_text": "[TABLE]"
+      },
+      {
+        "image_index": 4,
+        "rid": "rId10",
+        "target": "media/image4.jpg",
+        "previous_text": "C. Sympathy map"
+      },
+      {
+        "image_index": 5,
+        "rid": "rId11",
+        "target": "media/image5.jpg",
+        "previous_text": "The interaction was modelled with nine diagrams (draw.io): use case, sequence, user flow, Norman’s interaction model, customer journey map, information architecture, screen flow, state transition and hierarchical task analysis."
+      },
+      {
+        "image_index": 6,
+        "rid": "rId12",
+        "target": "media/image6.jpg",
+        "previous_text": "Figure 5. User flow — main tasks Capture · Find · Tasks (rounded = screen/action, diamond = decision)"
+      },
+      {
+        "image_index": 7,
+        "rid": "rId13",
+        "target": "media/image7.jpg",
+        "previous_text": "Figure 6. Use case diagram — actors Thư, Đức Anh (specialising Student User) and system services"
+      },
+      {
+        "image_index": 8,
+        "rid": "rId14",
+        "target": "media/image8.jpg",
+        "previous_text": "Figure 7. Sequence diagram — scan whiteboard → searchable note → find it later (with offline/online alternative)"
+      },
+      {
+        "image_index": 9,
+        "rid": "rId15",
+        "target": "media/image9.jpg",
+        "previous_text": "Figure 8. Interaction diagram — Norman’s 7 stages of action for “remind me to collect Minh’s fee tonight”"
+      },
+      {
+        "image_index": 10,
+        "rid": "rId16",
+        "target": "media/image10.jpg",
+        "previous_text": "Figure 9. Customer journey map — Trần Minh Thư, before vs. with Opportunities"
+      },
+      {
+        "image_index": 11,
+        "rid": "rId17",
+        "target": "media/image11.jpg",
+        "previous_text": "Figure 10. Information architecture — 3 tabs + Quick Capture, Search and Settings (max depth 3 taps)"
+      },
+      {
+        "image_index": 12,
+        "rid": "rId18",
+        "target": "media/image12.jpg",
+        "previous_text": "Figure 11. Screen flow / wireflow — screens and the user actions that connect them"
+      },
+      {
+        "image_index": 13,
+        "rid": "rId19",
+        "target": "media/image13.jpg",
+        "previous_text": "Figure 12. State transition diagrams — note lifecycle (sync & safety) and task/reminder lifecycle"
+      },
+      {
+        "image_index": 14,
+        "rid": "rId20",
+        "target": "media/image14.jpg",
+        "previous_text": "Mobile app wireframes (iPhone, 27 screens)"
+      },
+      {
+        "image_index": 15,
+        "rid": "rId21",
+        "target": "media/image15.jpg",
+        "previous_text": "Figure 14. Mobile wireframes A — Capture anything in seconds (onboarding, home, quick capture, scan, review)"
+      },
+      {
+        "image_index": 16,
+        "rid": "rId22",
+        "target": "media/image16.jpg",
+        "previous_text": "Figure 15. Mobile wireframes B — Write, format & share (editor, source mode, math palette, tuition table, share)"
+      },
+      {
+        "image_index": 17,
+        "rid": "rId23",
+        "target": "media/image17.jpg",
+        "previous_text": "Figure 16. Mobile wireframes C — Find & remember (search, tasks, reminder, folders)"
+      },
+      {
+        "image_index": 18,
+        "rid": "rId24",
+        "target": "media/image18.jpg",
+        "previous_text": "Figure 17. Mobile wireframes D — Trust & comfort (settings, undo, dark + focus)"
+      },
+      {
+        "image_index": 19,
+        "rid": "rId25",
+        "target": "media/image19.jpg",
+        "previous_text": "Figure 18. Mobile wireframes E — Drawing, menus, voice note, version history"
+      },
+      {
+        "image_index": 20,
+        "rid": "rId26",
+        "target": "media/image20.jpg",
+        "previous_text": "Web app wireframes (desktop, 12 screens)"
+      },
+      {
+        "image_index": 21,
+        "rid": "rId27",
+        "target": "media/image21.jpg",
+        "previous_text": "Figure 20. Web wireframe W01 Notes — sidebar · list · editor"
+      },
+      {
+        "image_index": 22,
+        "rid": "rId28",
+        "target": "media/image22.jpg",
+        "previous_text": "Figure 21. Web wireframe W02 Editor — Source | Preview split"
+      },
+      {
+        "image_index": 23,
+        "rid": "rId29",
+        "target": "media/image23.jpg",
+        "previous_text": "Figure 22. Web wireframe W03 Command palette Ctrl K"
+      },
+      {
+        "image_index": 24,
+        "rid": "rId30",
+        "target": "media/image24.jpg",
+        "previous_text": "Figure 23. Web wireframe W04 Search — photos & handwriting"
+      },
+      {
+        "image_index": 25,
+        "rid": "rId31",
+        "target": "media/image25.jpg",
+        "previous_text": "Figure 24. Web wireframe W05 Tasks + reminder inspector"
+      },
+      {
+        "image_index": 26,
+        "rid": "rId32",
+        "target": "media/image26.jpg",
+        "previous_text": "Figure 25. Web wireframe W06 Tutoring — tuition table"
+      },
+      {
+        "image_index": 27,
+        "rid": "rId33",
+        "target": "media/image27.jpg",
+        "previous_text": "Figure 26. Web wireframe W07 Import scan — drag & drop"
+      },
+      {
+        "image_index": 28,
+        "rid": "rId34",
+        "target": "media/image28.jpg",
+        "previous_text": "Figure 27. Web wireframe W08 Share & export dialog"
+      },
+      {
+        "image_index": 29,
+        "rid": "rId35",
+        "target": "media/image29.jpg",
+        "previous_text": "Figure 28. Web wireframe W09 Settings — sync & backup"
+      },
+      {
+        "image_index": 30,
+        "rid": "rId36",
+        "target": "media/image30.jpg",
+        "previous_text": "Figure 29. Web wireframe W10 Dark + Focus mode"
+      },
+      {
+        "image_index": 31,
+        "rid": "rId37",
+        "target": "media/image31.jpg",
+        "previous_text": "Figure 30. Web wireframe W11 Right-click menu + tooltips"
+      },
+      {
+        "image_index": 32,
+        "rid": "rId39",
+        "target": "media/image32.jpg",
+        "previous_text": "Visual design system"
+      },
+      {
+        "image_index": 33,
+        "rid": "rId40",
+        "target": "media/image33.jpg",
+        "previous_text": "Figure 32. Colour system — Blue primary (208°), analogous Indigo/Teal, complementary Orange (28°), 60-30-10 rule"
+      },
+      {
+        "image_index": 34,
+        "rid": "rId41",
+        "target": "media/image34.jpg",
+        "previous_text": "Figure 33. Apple iOS 27 system colour variables, Light and Dark modes"
+      },
+      {
+        "image_index": 35,
+        "rid": "rId42",
+        "target": "media/image35.jpg",
+        "previous_text": "Figure 34. Typography — Dynamic Type scale (Large default)"
+      },
+      {
+        "image_index": 36,
+        "rid": "rId43",
+        "target": "media/image36.jpg",
+        "previous_text": "Figure 35. Components derived from the Apple kit — glass buttons, tab bar, list rows, task rows"
+      },
+      {
+        "image_index": 37,
+        "rid": "rId44",
+        "target": "media/image37.jpg",
+        "previous_text": "Figure 36. Interaction states (default, hover, pressed, focus, disabled) and 44 pt touch targets"
+      },
+      {
+        "image_index": 38,
+        "rid": "rId46",
+        "target": "media/image38.jpg",
+        "previous_text": "27 iPhone screens grouped into six flows; every screen is linked with hotspots (tap “+”, menus, tabs, buttons) so the main scenarios can be played end to end."
+      },
+      {
+        "image_index": 39,
+        "rid": "rId47",
+        "target": "media/image39.jpg",
+        "previous_text": "Figure 38. Mobile A — Capture anything in seconds: onboarding, home, quick capture sheet, scan whiteboard, review scan"
+      },
+      {
+        "image_index": 40,
+        "rid": "rId48",
+        "target": "media/image40.jpg",
+        "previous_text": "Figure 39. Mobile B — Write, format & share: Live Preview editor, Source mode, math palette, tuition table, share sheet"
+      },
+      {
+        "image_index": 41,
+        "rid": "rId49",
+        "target": "media/image41.jpg",
+        "previous_text": "Figure 40. Mobile C — Find & remember: search inside photos, tasks, reminder sheet, folders"
+      },
+      {
+        "image_index": 42,
+        "rid": "rId50",
+        "target": "media/image42.jpg",
+        "previous_text": "Figure 41. Mobile D — Trust & comfort: sync & backup settings, undo toast, dark + focus mode"
+      },
+      {
+        "image_index": 43,
+        "rid": "rId51",
+        "target": "media/image43.jpg",
+        "previous_text": "Figure 42. Mobile E — Drawing, note menu with colour labels, home menu, voice note transcript, version history"
+      },
+      {
+        "image_index": 44,
+        "rid": "rId53",
+        "target": "media/image44.jpg",
+        "previous_text": "12 desktop screens (1440 × 900) using the iPad sidebar and toolbar components: a 3-column workspace for Thư on her Windows laptop and keyboard-first tools for Đức Anh."
+      },
+      {
+        "image_index": 45,
+        "rid": "rId54",
+        "target": "media/image45.jpg",
+        "previous_text": "Figure 44. W01 — Notes — sidebar, note list with colour labels and editor in Live Preview"
+      },
+      {
+        "image_index": 46,
+        "rid": "rId55",
+        "target": "media/image46.jpg",
+        "previous_text": "Figure 45. W02 — Editor — Source | Preview split with LaTeX autocomplete and shortcut status bar"
+      },
+      {
+        "image_index": 47,
+        "rid": "rId56",
+        "target": "media/image47.jpg",
+        "previous_text": "Figure 46. W03 — Command palette (Ctrl K) listing commands with their shortcuts"
+      },
+      {
+        "image_index": 48,
+        "rid": "rId57",
+        "target": "media/image48.jpg",
+        "previous_text": "Figure 47. W04 — Search — scope filters, results, and the OCR match boxed on the photo"
+      },
+      {
+        "image_index": 49,
+        "rid": "rId58",
+        "target": "media/image49.jpg",
+        "previous_text": "Figure 48. W05 — Tasks — smart lists and the reminder inspector"
+      },
+      {
+        "image_index": 50,
+        "rid": "rId59",
+        "target": "media/image50.jpg",
+        "previous_text": "Figure 49. W06 — Tutoring — tuition table with zebra rows and automatic total, attendance"
+      },
+      {
+        "image_index": 51,
+        "rid": "rId60",
+        "target": "media/image51.jpg",
+        "previous_text": "Figure 50. W07 — Import scan — drag & drop, edge correction and recognized text review"
+      },
+      {
+        "image_index": 52,
+        "rid": "rId61",
+        "target": "media/image52.jpg",
+        "previous_text": "Figure 51. W08 — Share & export dialog — read-only link, expiry, PDF / Markdown"
+      },
+      {
+        "image_index": 53,
+        "rid": "rId62",
+        "target": "media/image53.jpg",
+        "previous_text": "Figure 52. W09 — Settings — sync, backup, language and appearance"
+      },
+      {
+        "image_index": 54,
+        "rid": "rId63",
+        "target": "media/image54.jpg",
+        "previous_text": "Figure 53. W10 — Dark + Focus mode for late-night revision"
+      },
+      {
+        "image_index": 55,
+        "rid": "rId64",
+        "target": "media/image55.jpg",
+        "previous_text": "Figure 54. W11 — Right-click menu and tooltips with Ctrl shortcuts"
+      }
+    ],
+    "figure_captions": [
+      "Figure 1. Project cover (Figma)",
+      "Figure 2. Persona 01 — Trần Minh Thư, primary user (busy, visual, always on the move)",
+      "Figure 3. Persona 02 — Phạm Đức Anh, power user (fast, structured, keyboard-first)",
+      "Figure 4. Sympathy map — note app user research (Think & Feel, Hear, See, Say & Do, Pain, Gain)",
+      "Figure 5. User flow — main tasks Capture · Find · Tasks (rounded = screen/action, diamond = decision)",
+      "Figure 6. Use case diagram — actors Thư, Đức Anh (specialising Student User) and system services",
+      "Figure 7. Sequence diagram — scan whiteboard → searchable note → find it later (with offline/online alternative)",
+      "Figure 8. Interaction diagram — Norman’s 7 stages of action for “remind me to collect Minh’s fee tonight”",
+      "Figure 9. Customer journey map — Trần Minh Thư, before vs. with Opportunities",
+      "Figure 10. Information architecture — 3 tabs + Quick Capture, Search and Settings (max depth 3 taps)",
+      "Figure 11. Screen flow / wireflow — screens and the user actions that connect them",
+      "Figure 12. State transition diagrams — note lifecycle (sync & safety) and task/reminder lifecycle",
+      "Figure 13. Hierarchical task analysis (HTA) — goal 0 “Manage study & tutoring notes in one place” with plans",
+      "Figure 14. Mobile wireframes A — Capture anything in seconds (onboarding, home, quick capture, scan, review)",
+      "Figure 15. Mobile wireframes B — Write, format & share (editor, source mode, math palette, tuition table, share)",
+      "Figure 16. Mobile wireframes C — Find & remember (search, tasks, reminder, folders)",
+      "Figure 17. Mobile wireframes D — Trust & comfort (settings, undo, dark + focus)",
+      "Figure 18. Mobile wireframes E — Drawing, menus, voice note, version history",
+      "Figure 19. Mobile wireframes F — System status & error handling (processing, offline, conflict, confirmation, notification)",
+      "Figure 20. Web wireframe W01 Notes — sidebar · list · editor",
+      "Figure 21. Web wireframe W02 Editor — Source | Preview split",
+      "Figure 22. Web wireframe W03 Command palette Ctrl K",
+      "Figure 23. Web wireframe W04 Search — photos & handwriting",
+      "Figure 24. Web wireframe W05 Tasks + reminder inspector",
+      "Figure 25. Web wireframe W06 Tutoring — tuition table",
+      "Figure 26. Web wireframe W07 Import scan — drag & drop",
+      "Figure 27. Web wireframe W08 Share & export dialog",
+      "Figure 28. Web wireframe W09 Settings — sync & backup",
+      "Figure 29. Web wireframe W10 Dark + Focus mode",
+      "Figure 30. Web wireframe W11 Right-click menu + tooltips",
+      "Figure 31. Web wireframe W12 Sync conflict — merge line by line",
+      "Figure 32. Colour system — Blue primary (208°), analogous Indigo/Teal, complementary Orange (28°), 60-30-10 rule",
+      "Figure 33. Apple iOS 27 system colour variables, Light and Dark modes",
+      "Figure 34. Typography — Dynamic Type scale (Large default)",
+      "Figure 35. Components derived from the Apple kit — glass buttons, tab bar, list rows, task rows",
+      "Figure 36. Interaction states (default, hover, pressed, focus, disabled) and 44 pt touch targets",
+      "Figure 37. Style guide — voice & tone, logo/app icon, motion, icon rules",
+      "Figure 38. Mobile A — Capture anything in seconds: onboarding, home, quick capture sheet, scan whiteboard, review scan",
+      "Figure 39. Mobile B — Write, format & share: Live Preview editor, Source mode, math palette, tuition table, share sheet",
+      "Figure 40. Mobile C — Find & remember: search inside photos, tasks, reminder sheet, folders",
+      "Figure 41. Mobile D — Trust & comfort: sync & backup settings, undo toast, dark + focus mode",
+      "Figure 42. Mobile E — Drawing, note menu with colour labels, home menu, voice note transcript, version history",
+      "Figure 43. Mobile F — Recognizing text, offline banner, sync conflict, permanent delete alert, lock-screen notification & widget",
+      "Figure 44. W01 — Notes — sidebar, note list with colour labels and editor in Live Preview",
+      "Figure 45. W02 — Editor — Source | Preview split with LaTeX autocomplete and shortcut status bar",
+      "Figure 46. W03 — Command palette (Ctrl K) listing commands with their shortcuts",
+      "Figure 47. W04 — Search — scope filters, results, and the OCR match boxed on the photo",
+      "Figure 48. W05 — Tasks — smart lists and the reminder inspector",
+      "Figure 49. W06 — Tutoring — tuition table with zebra rows and automatic total, attendance",
+      "Figure 50. W07 — Import scan — drag & drop, edge correction and recognized text review",
+      "Figure 51. W08 — Share & export dialog — read-only link, expiry, PDF / Markdown",
+      "Figure 52. W09 — Settings — sync, backup, language and appearance",
+      "Figure 53. W10 — Dark + Focus mode for late-night revision",
+      "Figure 54. W11 — Right-click menu and tooltips with Ctrl shortcuts",
+      "Figure 55. W12 — Sync conflict — compare and merge line by line"
+    ]
+  },
+  "drawio": {
+    "pages": [
+      {
+        "id": "p1",
+        "name": "1. Use Case",
+        "labels": [
+          {
+            "id": "c2",
+            "value": "Use Case Diagram — Opportunities Note App"
+          },
+          {
+            "id": "c3",
+            "value": "Thư and Đức Anh both specialise the general “Student User”. Secondary actors (right) are system services."
+          },
+          {
+            "id": "c4",
+            "value": "Opportunities — Note App (iOS)"
+          },
+          {
+            "id": "c5",
+            "value": "Record voice note"
+          },
+          {
+            "id": "c6",
+            "value": "Scan whiteboard"
+          },
+          {
+            "id": "c7",
+            "value": "Use template (lesson plan / tuition)"
+          },
+          {
+            "id": "c8",
+            "value": "Insert formula (math palette)"
+          },
+          {
+            "id": "c9",
+            "value": "Set reminder on checklist item"
+          },
+          {
+            "id": "c10",
+            "value": "View tasks dashboard"
+          },
+          {
+            "id": "c11",
+            "value": "Mark task done"
+          },
+          {
+            "id": "c12",
+            "value": "Share read-only link"
+          },
+          {
+            "id": "c13",
+            "value": "Choose writing style (Simple / Markdown)"
+          },
+          {
+            "id": "c14",
+            "value": "Quick capture note (text / checklist)"
+          },
+          {
+            "id": "c15",
+            "value": "Organize notes (folder / tag / pin)"
+          },
+          {
+            "id": "c16",
+            "value": "Search notes"
+          },
+          {
+            "id": "c17",
+            "value": "Customize appearance (dark / focus / text)"
+          },
+          {
+            "id": "c18",
+            "value": "Restore deleted / version history"
+          },
+          {
+            "id": "c19",
+            "value": "Edit Markdown source (LaTeX autocomplete)"
+          },
+          {
+            "id": "c20",
+            "value": "Link notes [[backlink]]"
+          },
+          {
+            "id": "c21",
+            "value": "Export PDF / .md"
+          },
+          {
+            "id": "c22",
+            "value": "Thư (student & tutor)"
+          },
+          {
+            "id": "c23",
+            "value": "Student User (general)"
+          },
+          {
+            "id": "c24",
+            "value": "Đức Anh (power user)"
+          },
+          {
+            "id": "c27",
+            "value": "generalization"
+          },
+          {
+            "id": "c45",
+            "value": "Recognize text (OCR, on-device)"
+          },
+          {
+            "id": "c46",
+            "value": "Receive reminder notification"
+          },
+          {
+            "id": "c47",
+            "value": "Save offline-first (auto-save)"
+          },
+          {
+            "id": "c48",
+            "value": "Search inside photos & handwriting"
+          },
+          {
+            "id": "c49",
+            "value": "Sync across devices"
+          },
+          {
+            "id": "c50",
+            "value": "«include»"
+          },
+          {
+            "id": "c51",
+            "value": "«include»"
+          },
+          {
+            "id": "c52",
+            "value": "«extend»"
+          },
+          {
+            "id": "c53",
+            "value": "«include»"
+          },
+          {
+            "id": "c54",
+            "value": "«extend»"
+          },
+          {
+            "id": "c55",
+            "value": "«include»"
+          },
+          {
+            "id": "c56",
+            "value": "«include»"
+          },
+          {
+            "id": "c57",
+            "value": "OCR Engine"
+          },
+          {
+            "id": "c58",
+            "value": "iOS Notifications"
+          },
+          {
+            "id": "c59",
+            "value": "Recipient (classmates / parents)"
+          },
+          {
+            "id": "c60",
+            "value": "Sync / Backup Service"
+          },
+          {
+            "id": "c66",
+            "value": "Legend ● Blue: Thư-specific ● Teal: all users ● Indigo: Đức Anh-specific ● Gray: system-supported «include» = always part of · «extend» = optional extension · ▷ = generalization"
+          }
+        ]
+      },
+      {
+        "id": "p2",
+        "name": "2. Sequence",
+        "labels": [
+          {
+            "id": "c2",
+            "value": "Sequence Diagram — Scan whiteboard → searchable note → find it later"
+          },
+          {
+            "id": "c3",
+            "value": "Scenario of persona Thư in class; offline-first save, background sync, on-device OCR + search index."
+          },
+          {
+            "id": "c4",
+            "value": "Thư (user)"
+          },
+          {
+            "id": "c5",
+            "value": "App UI"
+          },
+          {
+            "id": "c6",
+            "value": "Document Camera"
+          },
+          {
+            "id": "c7",
+            "value": "OCR Engine (on-device)"
+          },
+          {
+            "id": "c8",
+            "value": "Local Store"
+          },
+          {
+            "id": "c9",
+            "value": "Search Index"
+          },
+          {
+            "id": "c10",
+            "value": "Sync Service"
+          },
+          {
+            "id": "c11",
+            "value": "1: tap + (Quick Capture)"
+          },
+          {
+            "id": "c12",
+            "value": "2: show Capture sheet"
+          },
+          {
+            "id": "c13",
+            "value": "3: tap Scan"
+          },
+          {
+            "id": "c14",
+            "value": "4: open(mode = whiteboard)"
+          },
+          {
+            "id": "c15",
+            "value": "5: edges detected (quad)"
+          },
+          {
+            "id": "c16",
+            "value": "6: hint “Hold steady — auto capture”"
+          },
+          {
+            "id": "c17",
+            "value": "7: auto-capture → flattened image"
+          },
+          {
+            "id": "c18",
+            "value": "8: recognize(image, lang = vi + en)"
+          },
+          {
+            "id": "c19",
+            "value": "9: text lines + boxes"
+          },
+          {
+            "id": "c20",
+            "value": "10: Review scan (editable, highlighted)"
+          },
+          {
+            "id": "c21",
+            "value": "11: edit text (optional) → Save"
+          },
+          {
+            "id": "c22",
+            "value": "12: save(note, image, text, folder)"
+          },
+          {
+            "id": "c23",
+            "value": "13: saved ✓ (offline-first)"
+          },
+          {
+            "id": "c24",
+            "value": "14: index(text + OCR words)"
+          },
+          {
+            "id": "c25",
+            "value": "15: badge “Saved on iPhone”"
+          },
+          {
+            "id": "c26",
+            "value": "alt"
+          },
+          {
+            "id": "c27",
+            "value": "[online]"
+          },
+          {
+            "id": "c28",
+            "value": "16: push changes (background)"
+          },
+          {
+            "id": "c29",
+            "value": "17: ack — synced"
+          },
+          {
+            "id": "c30",
+            "value": "18: badge “Synced”"
+          },
+          {
+            "id": "c32",
+            "value": "[offline / weak Wi-Fi]"
+          },
+          {
+            "id": "c33",
+            "value": "19: queue change, retry when online"
+          },
+          {
+            "id": "c34",
+            "value": "later — before the exam"
+          },
+          {
+            "id": "c35",
+            "value": "20: search “tích phân”"
+          },
+          {
+            "id": "c36",
+            "value": "21: query(keyword)"
+          },
+          {
+            "id": "c37",
+            "value": "22: matches in notes + photo text"
+          },
+          {
+            "id": "c38",
+            "value": "23: results, match highlighted (≤ 2 s)"
+          }
+        ]
+      },
+      {
+        "id": "p3",
+        "name": "3. User Flow",
+        "labels": [
+          {
+            "id": "c2",
+            "value": "User Flow — main tasks (Capture · Find · Tasks)"
+          },
+          {
+            "id": "c3",
+            "value": "Rounded = screen / action, diamond = decision, pill = start / end."
+          },
+          {
+            "id": "c4",
+            "value": "Start"
+          },
+          {
+            "id": "c5",
+            "value": "Open app (offline, instant)"
+          },
+          {
+            "id": "c6",
+            "value": "First launch?"
+          },
+          {
+            "id": "c7",
+            "value": "Onboarding: choose Simple / Markdown"
+          },
+          {
+            "id": "c8",
+            "value": "Home — All Notes"
+          },
+          {
+            "id": "c9",
+            "value": "What is the goal?"
+          },
+          {
+            "id": "c12",
+            "value": "Yes"
+          },
+          {
+            "id": "c13",
+            "value": "No"
+          },
+          {
+            "id": "c15",
+            "value": "Tap + Quick Capture"
+          },
+          {
+            "id": "c16",
+            "value": "Capture type?"
+          },
+          {
+            "id": "c17",
+            "value": "Type / speak content (text · checklist · voice)"
+          },
+          {
+            "id": "c18",
+            "value": "Document camera"
+          },
+          {
+            "id": "c19",
+            "value": "Edges detected?"
+          },
+          {
+            "id": "c20",
+            "value": "Drag corners manually"
+          },
+          {
+            "id": "c21",
+            "value": "Review OCR text"
+          },
+          {
+            "id": "c22",
+            "value": "Text correct?"
+          },
+          {
+            "id": "c23",
+            "value": "Edit recognized text"
+          },
+          {
+            "id": "c24",
+            "value": "Save (folder · tags)"
+          },
+          {
+            "id": "c25",
+            "value": "Online?"
+          },
+          {
+            "id": "c26",
+            "value": "Saved on device (sync later)"
+          },
+          {
+            "id": "c27",
+            "value": "Synced to laptop"
+          },
+          {
+            "id": "c28",
+            "value": "Note saved & searchable"
+          },
+          {
+            "id": "c29",
+            "value": "Capture"
+          },
+          {
+            "id": "c31",
+            "value": "Text / Checklist / Voice"
+          },
+          {
+            "id": "c32",
+            "value": "Scan"
+          },
+          {
+            "id": "c34",
+            "value": "No"
+          },
+          {
+            "id": "c36",
+            "value": "Yes → auto capture"
+          },
+          {
+            "id": "c38",
+            "value": "No"
+          },
+          {
+            "id": "c40",
+            "value": "Yes"
+          },
+          {
+            "id": "c43",
+            "value": "No"
+          },
+          {
+            "id": "c44",
+            "value": "Yes"
+          },
+          {
+            "id": "c47",
+            "value": "Tap Search"
+          },
+          {
+            "id": "c48",
+            "value": "Type keyword (or dictate)"
+          },
+          {
+            "id": "c49",
+            "value": "Results found?"
+          },
+          {
+            "id": "c50",
+            "value": "Suggest tags / recent searches"
+          },
+          {
+            "id": "c51",
+            "value": "Filter scope (Notes · Photos & Handwriting)"
+          },
+          {
+            "id": "c52",
+            "value": "Open note (match highlighted)"
+          },
+          {
+            "id": "c53",
+            "value": "Information found"
+          },
+          {
+            "id": "c54",
+            "value": "Find"
+          },
+          {
+            "id": "c57",
+            "value": "No"
+          },
+          {
+            "id": "c59",
+            "value": "Yes"
+          },
+          {
+            "id": "c62",
+            "value": "Open Tasks tab"
+          },
+          {
+            "id": "c63",
+            "value": "Review Today / Overdue"
+          },
+          {
+            "id": "c64",
+            "value": "Needs reminder?"
+          },
+          {
+            "id": "c65",
+            "value": "Reminder sheet (quick pick 18:00)"
+          },
+          {
+            "id": "c66",
+            "value": "Notification at scheduled time"
+          },
+          {
+            "id": "c67",
+            "value": "Do the task"
+          },
+          {
+            "id": "c68",
+            "value": "Tick ✓ done"
+          },
+          {
+            "id": "c69",
+            "value": "Task done, nothing forgotten"
+          },
+          {
+            "id": "c70",
+            "value": "Tasks"
+          },
+          {
+            "id": "c73",
+            "value": "Yes"
+          },
+          {
+            "id": "c76",
+            "value": "No"
+          }
+        ]
+      },
+      {
+        "id": "p4",
+        "name": "4. Interaction",
+        "labels": [
+          {
+            "id": "c2",
+            "value": "Interaction Diagram — Norman’s 7 stages of action applied to a real task"
+          },
+          {
+            "id": "c3",
+            "value": "Task: “Remind me to collect Minh’s tuition fee tonight” (persona Thư). Shows how the UI bridges the Gulf of Execution and the Gulf of Evaluation."
+          },
+          {
+            "id": "c4",
+            "value": "GOAL Never forget who has paid the tuition"
+          },
+          {
+            "id": "c5",
+            "value": "1 · Intention “Add a reminder to the fee item”"
+          },
+          {
+            "id": "c6",
+            "value": "2 · Action specification Open note → tap bell next to ☐ “Thu học phí Minh” → pick “This Evening 18:00”"
+          },
+          {
+            "id": "c7",
+            "value": "3 · Execution Tap · tap · tap (3 taps, 44 pt targets, thumb zone)"
+          },
+          {
+            "id": "c8",
+            "value": "5 · Perception Sees orange “Today 18:00” label + bell icon on the item; toast “Reminder set”"
+          },
+          {
+            "id": "c9",
+            "value": "6 · Interpretation “The reminder is attached to this exact task”"
+          },
+          {
+            "id": "c10",
+            "value": "7 · Evaluation Goal met? Item also appears in Tasks › Today ✓"
+          },
+          {
+            "id": "c11",
+            "value": "4 · SYSTEM / WORLD — Opportunities app stores reminder, schedules iOS notification, updates Tasks view, syncs"
+          },
+          {
+            "id": "c20",
+            "value": "GULF OF EXECUTION"
+          },
+          {
+            "id": "c21",
+            "value": "Design bridges: • Bell button sits right next to the checklist item (mapping) • Quick picks: This Evening / Tomorrow / Before Next Class (recognition over recall) • Same pattern everywhere — Apple sheet & toggles (consistency) • Large targets, one-hand reach (Fitts’s law)"
+          },
+          {
+            "id": "c22",
+            "value": "GULF OF EVALUATION"
+          },
+          {
+            "id": "c23",
+            "value": "Design bridges: • Immediate feedback: toast + orange due label (complementary accent) • System status always visible: “Saved · Synced” badge • Result visible in a second place (Tasks › Today) • Undo available — errors are reversible"
+          },
+          {
+            "id": "c24",
+            "value": "Interaction styles used in Opportunities"
+          },
+          {
+            "id": "c25",
+            "value": "Direct manipulation drag scan corners, tick checkboxes, swipe to delete"
+          },
+          {
+            "id": "c26",
+            "value": "Menus & sheets Quick Capture sheet, share sheet, ⋯ menu"
+          },
+          {
+            "id": "c27",
+            "value": "Form-fill reminder details, tuition table cells (auto =SUM)"
+          },
+          {
+            "id": "c28",
+            "value": "Natural language / voice search “tích phân”, dictate notes on the bus"
+          },
+          {
+            "id": "c29",
+            "value": "Command language Markdown / LaTeX, ⌘K palette for power users"
+          }
+        ]
+      },
+      {
+        "id": "p5",
+        "name": "5. Customer Journey Map",
+        "labels": [
+          {
+            "id": "c2",
+            "value": "Customer Journey Map — Trần Minh Thư (student & freelance tutor)"
+          },
+          {
+            "id": "c3",
+            "value": "Scenario: one week of lectures, tutoring and exam revision — before vs. with Opportunities."
+          },
+          {
+            "id": "c5",
+            "value": "1 · Discover"
+          },
+          {
+            "id": "c6",
+            "value": "2 · Onboard"
+          },
+          {
+            "id": "c7",
+            "value": "3 · Capture in class"
+          },
+          {
+            "id": "c8",
+            "value": "4 · Organize"
+          },
+          {
+            "id": "c9",
+            "value": "5 · Revise & search"
+          },
+          {
+            "id": "c10",
+            "value": "6 · Remind & act"
+          },
+          {
+            "id": "c11",
+            "value": "7 · Share"
+          },
+          {
+            "id": "c12",
+            "value": "8 · Trust & return"
+          },
+          {
+            "id": "c13",
+            "value": "Actions"
+          },
+          {
+            "id": "c14",
+            "value": "Hears about app from classmates; looks for one place for notes"
+          },
+          {
+            "id": "c15",
+            "value": "Installs, picks “Simple” style, imports old notes"
+          },
+          {
+            "id": "c16",
+            "value": "Types lecture, scans whiteboard, dictates idea on bus"
+          },
+          {
+            "id": "c17",
+            "value": "Files notes into subject folders, adds #tags"
+          },
+          {
+            "id": "c18",
+            "value": "Searches keyword the night before exam"
+          },
+          {
+            "id": "c19",
+            "value": "Adds ☐ “Thu học phí Minh” + reminder 18:00"
+          },
+          {
+            "id": "c20",
+            "value": "Sends read-only link to group via Zalo"
+          },
+          {
+            "id": "c21",
+            "value": "Phone reset / weak Wi-Fi — notes still there"
+          },
+          {
+            "id": "c22",
+            "value": "Touchpoints"
+          },
+          {
+            "id": "c23",
+            "value": "App Store, Zalo group"
+          },
+          {
+            "id": "c24",
+            "value": "Onboarding screen"
+          },
+          {
+            "id": "c25",
+            "value": "Quick Capture, Scan, Review OCR"
+          },
+          {
+            "id": "c26",
+            "value": "Folders, tags, pin"
+          },
+          {
+            "id": "c27",
+            "value": "Search (notes + photos)"
+          },
+          {
+            "id": "c28",
+            "value": "Checklist, Reminder sheet, Tasks"
+          },
+          {
+            "id": "c29",
+            "value": "Share sheet"
+          },
+          {
+            "id": "c30",
+            "value": "Sync badge, Settings › Backup"
+          },
+          {
+            "id": "c31",
+            "value": "Thinking"
+          },
+          {
+            "id": "c32",
+            "value": "“Will this be heavy like Notion?”"
+          },
+          {
+            "id": "c33",
+            "value": "“I don’t want to learn syntax.”"
+          },
+          {
+            "id": "c34",
+            "value": "“Quick, before the board is erased!”"
+          },
+          {
+            "id": "c35",
+            "value": "“Where did I put that photo?”"
+          },
+          {
+            "id": "c36",
+            "value": "“I need it in 2 seconds.”"
+          },
+          {
+            "id": "c37",
+            "value": "“Did Minh pay this month?”"
+          },
+          {
+            "id": "c38",
+            "value": "“Copy-paste into chat is messy.”"
+          },
+          {
+            "id": "c39",
+            "value": "“I can’t lose a semester again.”"
+          },
+          {
+            "id": "c40",
+            "value": "Emotion"
+          },
+          {
+            "id": "c42",
+            "value": "😀"
+          },
+          {
+            "id": "c43",
+            "value": "🙂"
+          },
+          {
+            "id": "c44",
+            "value": "😐"
+          },
+          {
+            "id": "c45",
+            "value": "😟"
+          },
+          {
+            "id": "c76",
+            "value": "— — Before (current tools)"
+          },
+          {
+            "id": "c77",
+            "value": "—— With Opportunities"
+          },
+          {
+            "id": "c78",
+            "value": "Pain points"
+          },
+          {
+            "id": "c79",
+            "value": "Notes scattered across 5 apps + notebook"
+          },
+          {
+            "id": "c80",
+            "value": "Workspace apps feel heavy"
+          },
+          {
+            "id": "c81",
+            "value": "Whiteboard photos buried; typing formulas slow"
+          },
+          {
+            "id": "c82",
+            "value": "No structure; screenshots without names"
+          },
+          {
+            "id": "c83",
+            "value": "Can’t search inside photos; loses time"
+          },
+          {
+            "id": "c84",
+            "value": "Fees tracked in paper + Zalo"
+          },
+          {
+            "id": "c85",
+            "value": "Sharing by screenshots"
+          },
+          {
+            "id": "c86",
+            "value": "Lost notes to phone reset; cloud-only fails offline"
+          },
+          {
+            "id": "c87",
+            "value": "Opportunities (features)"
+          },
+          {
+            "id": "c88",
+            "value": "One app for text, checklist, scan, voice"
+          },
+          {
+            "id": "c89",
+            "value": "Style choice; Live Preview hides syntax"
+          },
+          {
+            "id": "c90",
+            "value": "One-tap capture, edge detection, OCR, math palette"
+          },
+          {
+            "id": "c91",
+            "value": "Folders per subject, smart filters, nested tags"
+          },
+          {
+            "id": "c92",
+            "value": "OCR search, highlighted matches, offline"
+          },
+          {
+            "id": "c93",
+            "value": "Inline reminders + Tasks view + tuition template"
+          },
+          {
+            "id": "c94",
+            "value": "Read-only link, PDF, .md export"
+          },
+          {
+            "id": "c95",
+            "value": "Offline-first, auto-backup, 30-day trash, history"
+          }
+        ]
+      },
+      {
+        "id": "p6",
+        "name": "6. Information Architecture",
+        "labels": [
+          {
+            "id": "c2",
+            "value": "Information Architecture — Opportunities"
+          },
+          {
+            "id": "c3",
+            "value": "3 tabs + always-available Quick Capture (+) and Search; Settings from the ⋯ menu. Max depth = 3 taps."
+          },
+          {
+            "id": "c4",
+            "value": "Opportunities (App launch — offline-first)"
+          },
+          {
+            "id": "c5",
+            "value": "Notes (tab)"
+          },
+          {
+            "id": "c7",
+            "value": "All notes (Pinned / Today / Previous)"
+          },
+          {
+            "id": "c9",
+            "value": "Filter chips (Lecture, Tutoring, Project, Chưa xong)"
+          },
+          {
+            "id": "c11",
+            "value": "Note editor"
+          },
+          {
+            "id": "c13",
+            "value": "Live Preview / Source / Reading"
+          },
+          {
+            "id": "c15",
+            "value": "Math palette"
+          },
+          {
+            "id": "c17",
+            "value": "Attachments (scan, photo)"
+          },
+          {
+            "id": "c19",
+            "value": "Checklist + reminders"
+          },
+          {
+            "id": "c21",
+            "value": "Share & export"
+          },
+          {
+            "id": "c23",
+            "value": "Tasks (tab)"
+          },
+          {
+            "id": "c25",
+            "value": "Smart lists: Today / Scheduled / All / Overdue"
+          },
+          {
+            "id": "c27",
+            "value": "Task → source note"
+          },
+          {
+            "id": "c29",
+            "value": "Reminder sheet"
+          },
+          {
+            "id": "c31",
+            "value": "Show completed"
+          },
+          {
+            "id": "c33",
+            "value": "Folders (tab)"
+          },
+          {
+            "id": "c35",
+            "value": "Smart folders (Chưa xong, Has reminder, Scans)"
+          },
+          {
+            "id": "c37",
+            "value": "Folders per subject"
+          },
+          {
+            "id": "c39",
+            "value": "Nested #tags"
+          },
+          {
+            "id": "c41",
+            "value": "Recently Deleted (30 days)"
+          },
+          {
+            "id": "c43",
+            "value": "Quick Capture (+)"
+          },
+          {
+            "id": "c45",
+            "value": "Text"
+          },
+          {
+            "id": "c47",
+            "value": "Checklist"
+          },
+          {
+            "id": "c49",
+            "value": "Scan → Review OCR"
+          },
+          {
+            "id": "c51",
+            "value": "Voice → transcript"
+          },
+          {
+            "id": "c53",
+            "value": "Templates: Lesson plan, Attendance, Tuition"
+          },
+          {
+            "id": "c55",
+            "value": "Search"
+          },
+          {
+            "id": "c57",
+            "value": "Scopes: All / Notes / Photos & Handwriting / Tasks"
+          },
+          {
+            "id": "c59",
+            "value": "Recent searches"
+          },
+          {
+            "id": "c61",
+            "value": "Results → note"
+          },
+          {
+            "id": "c63",
+            "value": "Settings (⋯)"
+          },
+          {
+            "id": "c65",
+            "value": "Sync & Backup"
+          },
+          {
+            "id": "c67",
+            "value": "Version history"
+          },
+          {
+            "id": "c69",
+            "value": "Appearance: Dark / Focus / Text size"
+          },
+          {
+            "id": "c71",
+            "value": "Editor style: Simple / Markdown"
+          },
+          {
+            "id": "c73",
+            "value": "Onboarding (first launch)"
+          }
+        ]
+      },
+      {
+        "id": "p7",
+        "name": "7. Screen Flow (Wireflow)",
+        "labels": [
+          {
+            "id": "c2",
+            "value": "Screen Flow / Wireflow — 17 screens (matches Figma 04 · UI Prototype)"
+          },
+          {
+            "id": "c3",
+            "value": "Each phone = one screen (lo-fi). Arrows = user action that triggers the transition."
+          },
+          {
+            "id": "c4",
+            "value": "01 · Onboarding"
+          },
+          {
+            "id": "c9",
+            "value": "02 · Home — All Notes"
+          },
+          {
+            "id": "c16",
+            "value": "03 · Quick Capture sheet"
+          },
+          {
+            "id": "c22",
+            "value": "04 · Scan whiteboard"
+          },
+          {
+            "id": "c27",
+            "value": "05 · Review scan (OCR)"
+          },
+          {
+            "id": "c32",
+            "value": "13 · Share & export"
+          },
+          {
+            "id": "c38",
+            "value": "16 · Delete → Undo"
+          },
+          {
+            "id": "c45",
+            "value": "09 · Search"
+          },
+          {
+            "id": "c50",
+            "value": "12 · Tuition table"
+          },
+          {
+            "id": "c55",
+            "value": "06 · Note editor (Live)"
+          },
+          {
+            "id": "c60",
+            "value": "07 · Source mode"
+          },
+          {
+            "id": "c65",
+            "value": "08 · Math palette"
+          },
+          {
+            "id": "c71",
+            "value": "10 · Tasks"
+          },
+          {
+            "id": "c78",
+            "value": "11 · Reminder sheet"
+          },
+          {
+            "id": "c84",
+            "value": "14 · Folders"
+          },
+          {
+            "id": "c91",
+            "value": "15 · Settings"
+          },
+          {
+            "id": "c96",
+            "value": "17 · Dark + Focus"
+          },
+          {
+            "id": "c101",
+            "value": "Continue"
+          },
+          {
+            "id": "c102",
+            "value": "tap +"
+          },
+          {
+            "id": "c103",
+            "value": "Scan"
+          },
+          {
+            "id": "c104",
+            "value": "shutter / auto"
+          },
+          {
+            "id": "c105",
+            "value": "Save"
+          },
+          {
+            "id": "c106",
+            "value": "Text"
+          },
+          {
+            "id": "c107",
+            "value": "Source"
+          },
+          {
+            "id": "c108",
+            "value": "Σ"
+          },
+          {
+            "id": "c109",
+            "value": "Insert"
+          },
+          {
+            "id": "c110",
+            "value": "Share"
+          },
+          {
+            "id": "c111",
+            "value": "Search"
+          },
+          {
+            "id": "c112",
+            "value": "open result"
+          },
+          {
+            "id": "c113",
+            "value": "delete note"
+          },
+          {
+            "id": "c114",
+            "value": "Undo"
+          },
+          {
+            "id": "c115",
+            "value": "Tasks tab"
+          },
+          {
+            "id": "c116",
+            "value": "tap task"
+          },
+          {
+            "id": "c117",
+            "value": "Set reminder"
+          },
+          {
+            "id": "c118",
+            "value": "Folders tab"
+          },
+          {
+            "id": "c119",
+            "value": "Settings"
+          },
+          {
+            "id": "c120",
+            "value": "Focus mode"
+          },
+          {
+            "id": "c121",
+            "value": "Exit Focus"
+          },
+          {
+            "id": "c122",
+            "value": "open tuition note"
+          },
+          {
+            "id": "c123",
+            "value": "bell on item"
+          }
+        ]
+      },
+      {
+        "id": "p8",
+        "name": "8. State Transition",
+        "labels": [
+          {
+            "id": "c2",
+            "value": "State Transition Diagrams — Note lifecycle (sync & safety) and Task / Reminder lifecycle"
+          },
+          {
+            "id": "c3",
+            "value": "Label format: event [guard] / action"
+          },
+          {
+            "id": "c4",
+            "value": "Note"
+          },
+          {
+            "id": "c6",
+            "value": "Draft"
+          },
+          {
+            "id": "c7",
+            "value": "Saved on device"
+          },
+          {
+            "id": "c8",
+            "value": "Syncing"
+          },
+          {
+            "id": "c9",
+            "value": "Synced"
+          },
+          {
+            "id": "c10",
+            "value": "Conflict"
+          },
+          {
+            "id": "c11",
+            "value": "Editing"
+          },
+          {
+            "id": "c12",
+            "value": "In Trash (30 days)"
+          },
+          {
+            "id": "c14",
+            "value": "create / Quick Capture"
+          },
+          {
+            "id": "c15",
+            "value": "auto-save (≤ 1 s)"
+          },
+          {
+            "id": "c16",
+            "value": "network available"
+          },
+          {
+            "id": "c17",
+            "value": "ack / show “Synced”"
+          },
+          {
+            "id": "c18",
+            "value": "network lost / retry later"
+          },
+          {
+            "id": "c19",
+            "value": "remote also changed"
+          },
+          {
+            "id": "c20",
+            "value": "line-level merge / user picks version"
+          },
+          {
+            "id": "c21",
+            "value": "user edits"
+          },
+          {
+            "id": "c22",
+            "value": "auto-save"
+          },
+          {
+            "id": "c23",
+            "value": "delete / show Undo toast"
+          },
+          {
+            "id": "c24",
+            "value": "Undo / Restore"
+          },
+          {
+            "id": "c25",
+            "value": "after 30 days / purge"
+          },
+          {
+            "id": "c26",
+            "value": "Task / Reminder"
+          },
+          {
+            "id": "c28",
+            "value": "Open"
+          },
+          {
+            "id": "c29",
+            "value": "Scheduled"
+          },
+          {
+            "id": "c30",
+            "value": "Due"
+          },
+          {
+            "id": "c31",
+            "value": "Snoozed"
+          },
+          {
+            "id": "c32",
+            "value": "Overdue"
+          },
+          {
+            "id": "c33",
+            "value": "Done ✓"
+          },
+          {
+            "id": "c35",
+            "value": "add ☐ item"
+          },
+          {
+            "id": "c36",
+            "value": "set reminder"
+          },
+          {
+            "id": "c37",
+            "value": "time reached / notify"
+          },
+          {
+            "id": "c38",
+            "value": "snooze"
+          },
+          {
+            "id": "c39",
+            "value": "snooze ends / notify"
+          },
+          {
+            "id": "c40",
+            "value": "deadline passed / show red"
+          },
+          {
+            "id": "c41",
+            "value": "reschedule"
+          },
+          {
+            "id": "c42",
+            "value": "tick ✓"
+          },
+          {
+            "id": "c43",
+            "value": "tick ✓"
+          },
+          {
+            "id": "c44",
+            "value": "tick ✓"
+          },
+          {
+            "id": "c45",
+            "value": "untick"
+          },
+          {
+            "id": "c46",
+            "value": "archive with note"
+          }
+        ]
+      },
+      {
+        "id": "p9",
+        "name": "9. HTA",
+        "labels": [
+          {
+            "id": "c2",
+            "value": "Hierarchical Task Analysis (HTA) — Phân tích tác vụ phân cấp"
+          },
+          {
+            "id": "c3",
+            "value": "Goal 0 decomposed into sub-tasks; plans describe order and conditions (Annett & Duncan notation)."
+          },
+          {
+            "id": "c4",
+            "value": "0. Manage study & tutoring notes in one place"
+          },
+          {
+            "id": "c5",
+            "value": "Plan 0: do 1 whenever information appears → 2 right after capture (optional) → 3 before lessons / exams → 4 daily → 5 when collaborating"
+          },
+          {
+            "id": "c6",
+            "value": "1. Capture information"
+          },
+          {
+            "id": "c8",
+            "value": "1.1 Open Quick Capture (+)"
+          },
+          {
+            "id": "c10",
+            "value": "1.2 Choose capture type"
+          },
+          {
+            "id": "c12",
+            "value": "1.3 Enter content"
+          },
+          {
+            "id": "c14",
+            "value": "1.4 Confirm & save"
+          },
+          {
+            "id": "c16",
+            "value": "1.3.1 Type text / checklist"
+          },
+          {
+            "id": "c18",
+            "value": "1.3.2 Scan whiteboard"
+          },
+          {
+            "id": "c20",
+            "value": "1.3.3 Dictate voice note"
+          },
+          {
+            "id": "c22",
+            "value": "1.3.2.1 Aim camera at board"
+          },
+          {
+            "id": "c24",
+            "value": "1.3.2.2 Wait for auto-capture"
+          },
+          {
+            "id": "c26",
+            "value": "1.3.2.3 Review OCR text"
+          },
+          {
+            "id": "c28",
+            "value": "1.3.2.4 Correct errors"
+          },
+          {
+            "id": "c30",
+            "value": "Plan 1.3.2: 1 → 2 (if edges not found, drag corners) → 3 → 4 only if text wrong."
+          },
+          {
+            "id": "c31",
+            "value": "Plan 1: 1 → 2 → 3 → 4. At 3 choose ONE: in class → 1.3.2; on the bus → 1.3.3; otherwise 1.3.1."
+          },
+          {
+            "id": "c32",
+            "value": "2. Organize notes"
+          },
+          {
+            "id": "c34",
+            "value": "2.1 Choose folder (subject)"
+          },
+          {
+            "id": "c36",
+            "value": "2.2 Add tags (#tutoring/minh)"
+          },
+          {
+            "id": "c38",
+            "value": "2.3 Pin important note"
+          },
+          {
+            "id": "c40",
+            "value": "2.4 Link related notes [[ ]]"
+          },
+          {
+            "id": "c42",
+            "value": "Plan 2: 2.1 always (default Inbox); 2.2–2.4 optional, in any order."
+          },
+          {
+            "id": "c43",
+            "value": "3. Find & revise"
+          },
+          {
+            "id": "c45",
+            "value": "3.1 Open Search"
+          },
+          {
+            "id": "c47",
+            "value": "3.2 Type or dictate keyword"
+          },
+          {
+            "id": "c49",
+            "value": "3.3 Filter scope (Notes / Photos)"
+          },
+          {
+            "id": "c51",
+            "value": "3.4 Open result & read"
+          },
+          {
+            "id": "c53",
+            "value": "Plan 3: 1 → 2; if > 5 results do 3; then 4. Repeat 2–4 until found."
+          },
+          {
+            "id": "c54",
+            "value": "4. Manage tasks & reminders"
+          },
+          {
+            "id": "c56",
+            "value": "4.1 Add checklist item"
+          },
+          {
+            "id": "c58",
+            "value": "4.2 Set reminder (quick pick)"
+          },
+          {
+            "id": "c60",
+            "value": "4.3 Review Tasks › Today"
+          },
+          {
+            "id": "c62",
+            "value": "4.4 Mark done ✓"
+          },
+          {
+            "id": "c64",
+            "value": "Plan 4: 1 → 2 when creating; 3 every morning; 4 when finished or from the notification."
+          },
+          {
+            "id": "c65",
+            "value": "5. Share & keep safe"
+          },
+          {
+            "id": "c67",
+            "value": "5.1 Open Share sheet"
+          },
+          {
+            "id": "c69",
+            "value": "5.2 Choose link / PDF / .md"
+          },
+          {
+            "id": "c71",
+            "value": "5.3 Send via Zalo / Mail"
+          },
+          {
+            "id": "c73",
+            "value": "5.4 Check “Synced” status"
+          },
+          {
+            "id": "c75",
+            "value": "Plan 5: 1 → 2 → 3 when sharing; 4 is automatic — verify before exams."
+          }
+        ]
+      }
+    ]
+  }
+}
